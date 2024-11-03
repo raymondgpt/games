@@ -22,7 +22,7 @@ def roll_dice():
         result = "大"
     elif total == 3 or total == 18:
         result = "围骰"
-    else:貌似可以了 奇怪 为啥我在这里不行呢 那为啥我在unterprter那里不行 这里可以呢
+    else:
         result = "其他"
 
     # 把每次的结果存储到历史结果列表中
