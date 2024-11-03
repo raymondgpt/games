@@ -2,7 +2,7 @@ import random
 
 # 初始化历史结果列表
 history_results = []
-
+#test
 
 def roll_dice():
     # 随机生成三个骰子的点数（1到6）
