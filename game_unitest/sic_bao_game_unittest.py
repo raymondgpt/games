@@ -3,6 +3,9 @@ import random
 # 导入被测试的代码
 from sic_bao_game import roll_dice, history_results
 
+
+
+
 class TestDiceGame(unittest.TestCase):
 
     def setUp(self):
