@@ -4,6 +4,8 @@ import random
 history_results = []
 
 
+
+
 def roll_dice():
     # 随机生成三个骰子的点数（1到6）
     dice1 = random.randint(1, 6)
